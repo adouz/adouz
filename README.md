@@ -5,10 +5,7 @@
 <a  href="https://www.linkedin.com/in/adouz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a  href="https://instagram.com/ad0uz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a  href="https://www.facebook.com/itsabdu/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-</h2>
-<h2 align="center">
-<img align='center' herf="https://github.com/JaeSeoKim/badge42" traget="_blank" src='https://badge42.herokuapp.com/api/stats/adouz?privacyEmail=true&cursus=42' alt="adouz's 42 stats">
-</h2>
+
 
 <br/>
 <br/>
